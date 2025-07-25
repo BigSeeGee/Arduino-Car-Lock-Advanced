@@ -7,15 +7,6 @@ This prototype simulates a vehicle locking mechanism using Arduino boards and RF
 
 The project builds on a basic transmitter/receiver design and adds state tracking, conditional logic, and visual feedback via an LCD display to simulate secure vehicle locking behavior and illustrate how lightweight embedded security features can improve real-world system resilience.
 
-### Skills Learned
-
-- Practical implementation of wireless communication between embedded devices.
-- Understanding of rolling-code concepts and anti-replay techniques.
-- Servo control based on logical state tracking.
-- Integration of LCD modules via I2C for user feedback.
-- Debugging and validating message synchronization between transmitter and receiver.
-- Experience with Arduino IDE and C++ for embedded systems.
-
 ### Tools Used
 
 - Arduino UNO (x2)
