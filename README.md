@@ -51,3 +51,5 @@ The receiver processes incoming RF signals, validates the counter value, and per
 <img width="2404" height="2106" alt="Prijmac_Rolling_bb" src="https://github.com/user-attachments/assets/345b77fe-025a-4bdd-bc07-41e424cf98af" />
 
 <div>
+
+![spojene arduinio](https://github.com/user-attachments/assets/05d718ce-8769-41b1-9e36-4fe1fd101a49)
